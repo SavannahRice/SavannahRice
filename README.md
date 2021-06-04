@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi, I'm Savannah! 👋  
+
+### About Me 👩🏻‍💻  
+
+I am a passionate software engineer currently living in Jackson Hole, WY. I have experience building dynamic and creative full stack web applications in **JavaScript**, **Python**, **React**, **Redux**, and **HTML/CSS**. I am an avid cyclist, and when I'm not at my computer you can find me on my mountain bike. 
+
+### Get In Touch 📫
+[LinkedIn](https://www.linkedin.com/in/savannah-rice/)
+
+
 
 <!--
 **SavannahRice/SavannahRice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

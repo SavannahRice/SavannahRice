@@ -1,3 +1,4 @@
+[![Header](https://raw.githubusercontent.com/SavannahRice/<OWNER>/<OWNER>/Savannah Rice.png "Header")](https://savannahrice.github.io/)
 ## Hi, I'm Savannah! 👋  
 
 ### About Me 👩🏻‍💻  

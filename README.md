@@ -1,4 +1,5 @@
-[![Header](Savannah Rice.png "Header")](https://savannahrice.github.io/)
+![Savannah Rice](https://user-images.githubusercontent.com/65578999/121572250-33464580-c9e1-11eb-9fbd-f948e6aaf2e7.png)
+
 ## Hi, I'm Savannah! 👋  
 
 ### About Me 👩🏻‍💻  

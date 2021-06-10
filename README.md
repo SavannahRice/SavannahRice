@@ -1,13 +1,11 @@
-![Savannah Rice](https://user-images.githubusercontent.com/65578999/121572250-33464580-c9e1-11eb-9fbd-f948e6aaf2e7.png)
-
-## Hi, I'm Savannah! 👋  
+![Hello, world!](https://user-images.githubusercontent.com/65578999/121573126-1bbb8c80-c9e2-11eb-920c-927913bddb94.png)
 
 ### About Me 👩🏻‍💻  
 
 I am a passionate software engineer currently living in Jackson Hole, WY. I have experience building dynamic and creative full stack web applications in **JavaScript**, **Python**, **React**, **Redux**, and **HTML/CSS**. I am an avid cyclist, and when I'm not at my computer you can find me on my mountain bike. 
 
 ### Get In Touch 📫
- [Portfolio](https://savannahrice.github.io/)<br>
+[Portfolio](https://savannahrice.github.io/)<br>
 [LinkedIn](https://www.linkedin.com/in/savannah-rice/)<br>
 [AngelList](https://angel.co/u/savannah-rice)<br>
 <savannah.rice@gmail.com><br>

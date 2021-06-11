@@ -8,7 +8,6 @@ I am a passionate software engineer currently living in Jackson Hole, WY. I have
 ### Get In Touch 📫
 [Portfolio](https://savannahrice.github.io/)<br>
 [LinkedIn](https://www.linkedin.com/in/savannah-rice/)<br>
-[AngelList](https://angel.co/u/savannah-rice)<br>
 <savannah.rice@gmail.com><br>
 
 

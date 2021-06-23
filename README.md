@@ -3,7 +3,7 @@
 
 ### About Me 👩🏻‍💻  
 
-I am a passionate software engineer currently living in Jackson Hole, WY. I have experience building dynamic and creative full stack web applications in **JavaScript**, **Python**, **React**, **Redux**, and **HTML/CSS**. I am an avid cyclist, and when I'm not at my computer you can find me on my mountain bike. 
+I am a passionate software engineer with experience building dynamic and creative full stack web applications in **JavaScript**, **Python**, **React**, **Redux**, and **HTML/CSS**. I am an avid cyclist, and when I'm not at my computer you can find me on my mountain bike. 
 
 ### Get In Touch 📫
 [Portfolio](https://savannahrice.github.io/)<br>

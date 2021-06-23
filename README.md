@@ -1,4 +1,5 @@
-![Hello, world! (1)](https://user-images.githubusercontent.com/65578999/121725656-cbf2c900-caa6-11eb-8840-771cdd1624df.png)
+![Blue Illustrated Technology General LinkedIn Banner](https://user-images.githubusercontent.com/65578999/123176857-740e7780-d441-11eb-8dbb-c72841a4296a.png)
+
 
 
 ### About Me 👩🏻‍💻  

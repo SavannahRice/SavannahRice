@@ -7,9 +7,8 @@
 I am a software engineer with experience building dynamic and creative full stack web applications in **JavaScript**, **Python**, **React**, **Redux**, and **HTML/CSS**. I am an avid cyclist, and when I'm not at my computer you can find me on my mountain bike. 
 
 ### Get In Touch 📫
-[Portfolio](https://savannahrice.github.io/)<br>
+
 [LinkedIn](https://www.linkedin.com/in/savannah-rice/)<br>
-<savannah.rice@gmail.com><br>
 
 
 
